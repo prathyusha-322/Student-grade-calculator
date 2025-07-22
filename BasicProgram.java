@@ -74,8 +74,7 @@ import java.util.Scanner;
 
 		        Student student = new Student(name, rollNo, marks);
 		        student.displayResult();
-		    }
-//- Developed a Student Result Calculator using Java, implementing OOP concepts to calculate averages and assign grades based on marks.
+			}
 
 	}
 
